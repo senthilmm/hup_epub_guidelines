@@ -2,3 +2,5 @@
 /.sass-cache
 *.tmp
 epub-base.css
+converted-HUP_epub3_V1.1.epub/
+.gitignore
