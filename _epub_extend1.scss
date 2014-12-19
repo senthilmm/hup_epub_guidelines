@@ -1,0 +1,8 @@
+.raisedcap:first-of-type:first-letter { font-size: 2 * $body-font-size; }
+
+.dropcap:first-of-type:first-letter { font-size: 2 * $body-line-height;
+	float:left;
+	margin-bottom: -.2em;
+	margin-right: .1em;
+	line-height: 1.0em;
+}
